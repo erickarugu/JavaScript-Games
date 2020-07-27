@@ -6,4 +6,3 @@ I believe that creating games is a great way to solidify any programming knowled
 It is for this reason that I try to create every simple popular game I know and play. I have found it to be so fun. I hope you will join me.
 
 ![Game ScreenShot](/images/games.jpg)
-Format: ![Alt Text](url)
